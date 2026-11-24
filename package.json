@@ -28,7 +28,7 @@
     "gulp-babel": "^8.0.0-beta.2",
     "gulp-postcss": "^8.0.0",
     "imports-loader": "^0.8.0",
-    "inquirer": "^6.5.2",
+    "inquirer": "^14.3.1",
     "lodash.kebabcase": "^4.1.1",
     "postcss-import": "^12.0.1",
     "postcss-loader": "^3.0.0",
